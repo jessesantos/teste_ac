@@ -48,7 +48,8 @@ Siga os passos no arquivo [COMANDOS.md](COMANDOS.md) para instalar e configurar 
 
 ## Print do Sistema
 
-![Print](https://jc3.com.br/images/print_ac.png)
+![Print 1](https://jc3.com.br/images/print_ac.png)
+![Print 2](https://jc3.com.br/images/print_ac2.png)
 
 ## Autor
 
