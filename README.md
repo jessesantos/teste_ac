@@ -46,6 +46,10 @@ Siga os passos no arquivo [COMANDOS.md](COMANDOS.md) para instalar e configurar 
 3. Todas as transações podem ser revertidas, desde que haja saldo suficiente.
 4. Se o saldo do usuário estiver negativo, qualquer depósito será usado para compensar o saldo negativo primeiro.
 
+## Print do Sistema
+
+![Print](https://jc3.com.br/images/print_ac.png)
+
 ## Autor
 
 Jesse Santos
