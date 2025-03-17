@@ -12,10 +12,11 @@ Uma aplicação Laravel 11 que simula uma carteira financeira digital, permitind
 
 ## Requisitos
 
+- Docker
 - PHP 8.2 ou superior
 - Composer
 - MySQL
-- Node.js e NPM
+- Node.js e NPM (Container laravel_app - Deve ser instalado manualmente)
 
 ## Instalação
 
@@ -45,6 +46,6 @@ Siga os passos no arquivo [COMANDOS.md](COMANDOS.md) para instalar e configurar 
 3. Todas as transações podem ser revertidas, desde que haja saldo suficiente.
 4. Se o saldo do usuário estiver negativo, qualquer depósito será usado para compensar o saldo negativo primeiro.
 
-## Licença
+## Autor
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+Jesse Santos
